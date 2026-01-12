@@ -1,0 +1,37 @@
+/* Design tokens */
+:root {
+  --color-blue-900: #0C4A8A;
+  --color-blue-700: #155C9B;
+  --color-blue-600: #1E73B8;
+  --color-blue-100: #E6F0FB;
+  --color-yellow-500: #F2B705;
+  --color-yellow-100: #FFF3CC;
+  --color-ink: #0B1A2A;
+  --color-ink-soft: #33445B;
+  --color-paper: #FFFFFF;
+  --color-cloud: #F6F8FB;
+  --color-night: #0A1B2E;
+  --color-border: #E2E8F0;
+
+  --font-base: "Sora", "Segoe UI", sans-serif;
+
+  --space-1: 6px;
+  --space-2: 10px;
+  --space-3: 16px;
+  --space-4: 24px;
+  --space-5: 32px;
+  --space-6: 48px;
+  --space-7: 64px;
+  --space-8: 88px;
+
+  --radius-sm: 10px;
+  --radius-md: 16px;
+  --radius-lg: 22px;
+  --radius-pill: 999px;
+
+  --shadow-sm: 0 10px 24px rgba(9, 30, 66, 0.08);
+  --shadow-md: 0 16px 40px rgba(9, 30, 66, 0.12);
+
+  --z-header: 1000;
+  --z-overlay: 2000;
+}

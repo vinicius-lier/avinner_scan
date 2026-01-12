@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Telefone">
+  <rect width="48" height="48" fill="none" />
+  <path d="M14 8 C22 24 24 26 40 34 L34 40 C19 34 14 29 8 14 Z" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" />
+  <path d="M14 8 L20 6" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" />
+  <path d="M34 40 L42 36" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" />
+</svg>

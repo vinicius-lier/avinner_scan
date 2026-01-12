@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Raio-X">
+  <rect width="48" height="48" fill="none" />
+  <rect x="8" y="8" width="32" height="32" rx="6" fill="none" stroke="#0C4A8A" stroke-width="3" />
+  <path d="M16 18 H32" stroke="#F2B705" stroke-width="3" stroke-linecap="round" />
+  <path d="M16 24 H32" stroke="#F2B705" stroke-width="3" stroke-linecap="round" />
+  <path d="M16 30 H32" stroke="#F2B705" stroke-width="3" stroke-linecap="round" />
+</svg>
