@@ -34,7 +34,7 @@
   height: 320px;
   right: -80px;
   bottom: -120px;
-  background: url("../Assets/images/avinner-logo-mono.svg") no-repeat center / contain;
+  background: url("../Assets/logo.svg") no-repeat center / contain;
   opacity: 0.05;
   pointer-events: none;
 }
