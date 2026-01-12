@@ -13,7 +13,7 @@
 
 .section--pattern {
   background-color: var(--color-paper);
-  background-image: url("../assets/patterns/bg-grid.svg");
+  background-image: url("../Assets/patterns/bg-grid.svg");
   background-size: 420px;
 }
 
